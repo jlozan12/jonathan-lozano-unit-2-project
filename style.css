@@ -1,0 +1,33 @@
+body {
+    background-color: #4D4D4D;
+}
+body {
+  color: #ffffff;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+td {
+  border:5px solid #440750;
+  margin: 50px;
+  padding: 6px;
+  border-width:6px;
+}
+p {
+  color: #8ffffff;
+}
+
+h1,h2,h3,h4,h5 {
+  color: #ffffff;
+}
+a {
+  color: #fbe23c;
+}
+
+body {
+  font-family: "share-tech", sans-serif
+}
+table {
+font-family: "share-tech", monospace;
+}
